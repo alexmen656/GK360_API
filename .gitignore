@@ -1,0 +1,6 @@
+.DS_Store
+/node_modules/
+/dist/
+/api_new/web_scrappers/gemeinden/*
+/api_new/web_scrappers/gemeinden_old/*
+/api_new/web_scrappers/node_modules/
