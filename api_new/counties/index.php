@@ -47,7 +47,15 @@ function getMunicipalitiesByCounty($county)
     }
 
     $stmt->execute();
-    return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    $municipalities = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    // Entferne die Felder 'description' und 'municipality_type'
+    foreach ($municipalities as &$municipality) {
+        unset($municipality['description']);
+        unset($municipality['municipality_type']);
+    }
+
+    return $municipalities;
 }
 
 // API-Endpunkte

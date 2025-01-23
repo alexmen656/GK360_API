@@ -560,3 +560,169 @@ litzelsdorf An error occurred: Failed to find address
 
 markt-neuhodis An error occurred: Failed to find address
 
+bad-kreuzen An error occurred: Failed to find address
+
+aurach-am-hongar An error occurred: Failed to find address
+
+atzbach An error occurred: Failed to find address
+
+bad-wimsbach-neydharting An error occurred: Failed to find address
+
+dorf-an-der-pram An error occurred: Failed to find address
+
+engerwitzdorf An error occurred: Failed to find address
+
+gramastetten An error occurred: Failed to find address
+
+hargelsberg An error occurred: Failed to find address
+
+sankt-georgen-bei-grieskirchen An error occurred: Failed to find address
+
+tumeltsham An error occurred: Failed to find address
+
+waldburg An error occurred: Failed to find address
+
+weng-im-innkreis An error occurred: Failed to find address
+
+zell-am-moos An error occurred: Failed to find address
+
+ardning An error occurred: Failed to find address
+
+ludersdorf-wilfersdorf An error occurred: Failed to find address
+
+sankt-peter-am-kammersberg An error occurred: Failed to find address
+
+turnau An error occurred: Failed to find address
+
+hippach An error occurred: Failed to find address
+
+kaltenbach An error occurred: Failed to find address
+
+langkampfen An error occurred: Failed to find address
+
+pettneu-am-arlberg An error occurred: Failed to find address
+
+stummerberg An error occurred: Failed to find address
+
+vals An error occurred: Failed to find address
+
+bischofshofen An error occurred: Failed to find address
+
+forstau An error occurred: Failed to find address
+
+sankt-martin-am-tennengebirge An error occurred: Failed to find address
+
+thomatal An error occurred: Failed to find address
+
+baldramsdorf An error occurred: Failed to find address
+
+eisenkappel-vellach An error occurred: Failed to find address
+
+kötschach-mauthen An error occurred: Failed to find address
+
+krems-in-kärnten An error occurred: Failed to find address
+
+großmürbisch An error occurred: Failed to find address
+
+litzelsdorf An error occurred: Failed to find address
+
+tschanigraben An error occurred: Failed to find address
+
+adlwang An error occurred: Failed to find address
+
+atzbach An error occurred: Failed to find address
+
+bad-wimsbach-neydharting An error occurred: Failed to find address
+
+bad-kreuzen An error occurred: Failed to find address
+
+dorf-an-der-pram An error occurred: Failed to find address
+
+aurach-am-hongar An error occurred: Failed to find address
+
+engerwitzdorf An error occurred: Failed to find address
+
+hargelsberg An error occurred: Failed to find address
+
+gramastetten An error occurred: Failed to find address
+
+hirschbach-im-mühlkreis An error occurred: Failed to find address
+
+hinzenbach An error occurred: Failed to find address
+
+lengau An error occurred: Failed to find address
+
+oberhofen-am-irrsee An error occurred: Failed to find address
+
+sankt-georgen-bei-grieskirchen An error occurred: Failed to find address
+
+sankt-oswald-bei-haslach An error occurred: Failed to find address
+
+steegen An error occurred: Failed to find address
+
+sankt-veit-im-innkreis An error occurred: Failed to find address
+
+ternberg An error occurred: Failed to find address
+
+tumeltsham An error occurred: Failed to find address
+
+wallern-an-der-trattnach An error occurred: Failed to find address
+
+weng-im-innkreis An error occurred: Failed to find address
+
+zell-am-moos An error occurred: Failed to find address
+
+waldburg An error occurred: Failed to find address
+
+ardning An error occurred: Failed to find address
+
+edelsbach-bei-feldbach An error occurred: Failed to find address
+
+ludersdorf-wilfersdorf An error occurred: Failed to find address
+
+sankt-stefan-ob-stainz An error occurred: Failed to find address
+
+sankt-oswald-bei-plankenwarth An error occurred: Failed to find address
+
+sankt-kathrein-am-hauenstein An error occurred: Failed to find address
+
+sankt-peter-am-kammersberg An error occurred: Failed to find address
+
+stanz-im-mürztal An error occurred: Failed to find address
+
+turnau An error occurred: Failed to find address
+
+wald-am-schoberpaß An error occurred: Failed to find address
+
+stiwoll An error occurred: Failed to find address
+
+bichlbach An error occurred: Failed to find address
+
+hinterhornbach An error occurred: Failed to find address
+
+hippach An error occurred: Failed to find address
+
+kaltenbach An error occurred: Failed to find address
+
+langkampfen An error occurred: Failed to find address
+
+pettneu-am-arlberg An error occurred: Failed to find address
+
+sankt-sigmund-im-sellrain An error occurred: Failed to find address
+
+stummerberg An error occurred: Failed to find address
+
+vals An error occurred: Failed to find address
+
+bischofshofen An error occurred: Failed to find address
+
+forstau An error occurred: Failed to find address
+
+sankt-martin-am-tennengebirge An error occurred: Failed to find address
+
+thomatal An error occurred: Failed to find address
+
+baldramsdorf An error occurred: Failed to find address
+
+eisenkappel-vellach An error occurred: Failed to find address
+

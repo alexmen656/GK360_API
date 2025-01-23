@@ -361,8 +361,7 @@ fetch('https://www.gk360.at/api/municipalities/?code=bregenz')
     .then(response => response.json())
     .then(data => {
         console.log(data);
-    });
-</code></pre>
+    });</code></pre>
               
                 <h4>Example Response:</h4>
                 <pre><code class="language-javascript">
@@ -370,8 +369,6 @@ fetch('https://www.gk360.at/api/municipalities/?code=bregenz')
     municipality: {
         code: 'bregenz',
         name: 'Bregenz',
-        description: null,
-        municipality_type: null,
         postal_code: '6900',
         identifier: '80207',
         coat_of_arms: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AUT_Bregenz_COA.svg/200px-AUT_Bregenz_COA.svg.png',
@@ -402,10 +399,8 @@ fetch('https://www.gk360.at/api/municipalities/?code=bregenz')
             }
         ],
         contact: {
-            email: 'unknown',
             phone: '0557 44100',
             address: 'Rathausstraße 4 6900 Bregenz',
-            opening_hours: null,
             longitude: 9.74698,
             latitude: 47.5034
         },
@@ -418,12 +413,11 @@ fetch('https://www.gk360.at/api/municipalities/?code=bregenz')
             federal_state: 'Vorarlberg'
         }
     }
-}
-                </code></pre>
+}</code></pre>
               <br>
                 <h4>2. Get Images for a Specific Municipality</h4>
                 <p>
-                  Endpoint: <code>?action=images&municipality={municipality_id}</code><br>
+                  Endpoint: <code>?action=images&municipality={municipality}</code><br>
                   Description: Returns all images (Thumbnail, Full-Size, Attribution) associated with a specific municipality.
                 </p>
                 <pre><code class="language-javascript">
@@ -463,8 +457,7 @@ fetch('https://www.gk360.at/api/municipalities/?action=images&municipality=Brege
             attribution: 'Rikki Mitterer, CC BY-SA 4.0, via Wikimedia Commons'
         }
     ]
-}
-                </code></pre>
+}</code></pre>
               </div>
               
               <div id="Counties">
@@ -516,8 +509,7 @@ fetch('https://www.gk360.at/api/counties/?action=all')
         },
         ...
     ]
-}
-                </code></pre>
+}</code></pre>
               <br>
                 <h4>2. Get Municipalities for a Specific County</h4>
                 <p>
@@ -539,8 +531,6 @@ fetch('https://www.gk360.at/api/counties/?action=municipalities&county=Oberwart'
             id: 5,
             code: 'bad-tatzmannsdorf',
             name: 'Bad Tatzmannsdorf',
-            description: null,
-            municipality_type: null,
             postal_code: '7431',
             identifier: '10901',
             coat_of_arms: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/AUT_Bad_Tatzmannsdorf_COA.png/200px-AUT_Bad_Tatzmannsdorf_COA.png',
@@ -553,8 +543,6 @@ fetch('https://www.gk360.at/api/counties/?action=municipalities&county=Oberwart'
             id: 6,
             code: 'badersdorf',
             name: 'Badersdorf',
-            description: null,
-            municipality_type: null,
             postal_code: '7512',
             identifier: '10931',
             coat_of_arms: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AUT_Badersdorf_COA.png/200px-AUT_Badersdorf_COA.png',
@@ -567,8 +555,6 @@ fetch('https://www.gk360.at/api/counties/?action=municipalities&county=Oberwart'
             id: 14,
             code: 'deutsch-schützen-eisenberg',
             name: 'Deutsch Schützen-Eisenberg',
-            description: null,
-            municipality_type: null,
             postal_code: '7474',
             identifier: '10903',
             coat_of_arms: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AUT_Deutsch_Sch%C3%BCtzen-Eisenberg_COA.png/200px-AUT_Deutsch_Sch%C3%BCtzen-Eisenberg_COA.png',
@@ -579,9 +565,7 @@ fetch('https://www.gk360.at/api/counties/?action=municipalities&county=Oberwart'
         },
         ...
     ]
-}  
-              
-                </code></pre>
+}</code></pre>
               </div>
               
 
@@ -639,8 +623,7 @@ fetch('https://www.gk360.at/api/federal-states/?action=all')
         },
         ...
     ]
-}
-                </code></pre>
+}</code></pre>
               <br>
                 <h4>2. Get Counties for a Specific Federal State</h4>
                 <p>
@@ -686,8 +669,7 @@ fetch('https://www.gk360.at/api/federal-states/?action=counties&federal_state=Bu
         },
         ...
     ]
-}
-                </code></pre>
+}</code></pre>
               </div>
 
               <!-- Comming in an update (maybe) -->

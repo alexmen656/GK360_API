@@ -46,17 +46,17 @@ function getMunicipality($code)
         $municipality_data = [
             "code" => $municipality['code'],
             "name" => $municipality['name'],
-            "description" => $municipality['description'],
-            "municipality_type" => $municipality['municipality_type'],
+           // "description" => $municipality['description'],
+           // "municipality_type" => $municipality['municipality_type'],
             "postal_code" => $municipality['postal_code'],
             "identifier" => $municipality['identifier'],
             "coat_of_arms" => $municipality['coat_of_arms'],
             "images" => $images, // Bilder werden hier hinzugefügt
             "contact" => [
-                "email" => $contact['email'] ?? null,
+                //"email" => $contact['email'] ?? null,
                 "phone" => $contact['phone'] ?? null,
                 "address" => $contact['address'] ?? null,
-                "opening_hours" => $contact['opening_hours'] ?? null,
+                //"opening_hours" => $contact['opening_hours'] ?? null,
                 "longitude" => $municipality['longitude'] ?? null,
                 "latitude" => $municipality['latitude'] ?? null
             ],
