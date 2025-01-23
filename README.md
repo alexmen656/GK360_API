@@ -1,16 +1,27 @@
 # GK 360 API
+This project provides a lightweight and efficient API to retrieve structured information about Austrian municipalities, counties, and federal states, along with associated details such as contact information, statistics, and images. It is designed to be scalable and user-friendly, with endpoints that are easy to integrate into other systems. The data retrieval is based on web scraping techniques utilizing Cheerio, a JavaScript-based library for web scraping and parsing HTML.
+
 ![Screenhot](/screenshot.png)
 
-## Features of the documentation
--   modern, sleek minimal design style
--   lightweight, rapid fast loading speed
--   completely responsive using fluid layouts
--   dynamic sidebar menu automatically generated from titles
--   dynamic search field what looks for string in all content
--   compress & minify all html, css and js output
--   code blocks with syntax highlighting
--   page loader animation effect
--   included Sketch design file
+## Features
+- Federal States Management: Retrieve all federal states in a structured format.
+- Counties Management: Access data about counties and their associated municipalities.
+- Municipalities Management: Query detailed information about specific municipalities by their unique codes.
+- Rich Data Integration: Includes metadata like contact information, statistics, and images for enhanced utility.
+
+## Technology Stack
+- Web Scraping: Node.js, Cheerio (JavaScript-based web scraping and HTML parsing)
+- Frontend: Vite, HTML, JS, SCSS(CSS)
+- Backend: PHP
+- Databse: MySQL
+
+## How to Use
+- Clone or download the project files.
+- Install Node.js dependencies with `npm install`
+- Install Node.js dependencies in /web_scrappers/ with `npm install`
+- Update the config.php file with your database credentials and error log path.
+- Host the project on a server that supports PHP and a MySQL database.
+- Use the provided endpoints to query data as needed.
 
 ## Resources for the documentation
 - [Bootstrap 5](https://getbootstrap.com) - the latest Bootstrap version gives the base structure

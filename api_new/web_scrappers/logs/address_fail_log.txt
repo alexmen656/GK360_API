@@ -726,3 +726,7 @@ baldramsdorf An error occurred: Failed to find address
 
 eisenkappel-vellach An error occurred: Failed to find address
 
+kötschach-mauthen An error occurred: Failed to find address
+
+krems-in-kärnten An error occurred: Failed to find address
+
