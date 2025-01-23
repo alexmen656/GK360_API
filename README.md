@@ -1,5 +1,5 @@
 # GK 360 API
-This project provides a lightweight and efficient API to retrieve structured information about Austrian municipalities, counties, and federal states, along with associated details such as contact information, statistics, and images. It is designed to be scalable and user-friendly, with endpoints that are easy to integrate into other systems. The data retrieval is based on web scraping techniques utilizing Cheerio, a JavaScript-based library for web scraping and parsing HTML. Users can explore the core web scrapers behind this project at `/api_new/web_scrappers`, as it forms the heart of the system.
+This project provides a lightweight and efficient API to retrieve structured information about Austrian municipalities, counties, and federal states, along with associated details such as contact information, statistics, and images. It is designed to be scalable and user-friendly, with endpoints that are easy to integrate into other systems. The data retrieval is based on web scraping techniques utilizing Cheerio, a JavaScript-based library for web scraping and parsing HTML. You can explore the core web scrapers behind this project at `/api_new/web_scrappers`, as it forms the heart of the system.
 
 ![Screenhot](/screenshot.png)
 
