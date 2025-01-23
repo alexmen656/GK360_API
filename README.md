@@ -1,5 +1,5 @@
 # GK 360 API
-This project provides a lightweight and efficient API to retrieve structured information about Austrian municipalities, counties, and federal states, along with associated details such as contact information, statistics, and images. It is designed to be scalable and user-friendly, with endpoints that are easy to integrate into other systems. The data retrieval is based on web scraping techniques utilizing Cheerio, a JavaScript-based library for web scraping and parsing HTML.
+This project provides a lightweight and efficient API to retrieve structured information about Austrian municipalities, counties, and federal states, along with associated details such as contact information, statistics, and images. It is designed to be scalable and user-friendly, with endpoints that are easy to integrate into other systems. The data retrieval is based on web scraping techniques utilizing Cheerio, a JavaScript-based library for web scraping and parsing HTML. Users can explore the core web scrapers behind this project at `/api_new/web_scrappers`, as it forms the heart of the system.
 
 ![Screenhot](/screenshot.png)
 
@@ -11,14 +11,14 @@ This project provides a lightweight and efficient API to retrieve structured inf
 
 ## Technology Stack
 - Web Scraping: Node.js, Cheerio (JavaScript-based web scraping and HTML parsing)
-- Frontend: Vite, HTML, JS, SCSS(CSS)
+- Frontend(Documentation): Vite, HTML, JS, SCSS(CSS)
 - Backend: PHP
 - Databse: MySQL
 
 ## How to Use
 - Clone or download the project files.
 - Install Node.js dependencies with `npm install`
-- Install Node.js dependencies in /web_scrappers/ with `npm install`
+- Install Node.js dependencies in `/api_new//web_scrappers/` with `npm install`
 - Update the config.php file with your database credentials and error log path.
 - Host the project on a server that supports PHP and a MySQL database.
 - Use the provided endpoints to query data as needed.
