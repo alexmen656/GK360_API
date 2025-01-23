@@ -1,5 +1,5 @@
-# Bootstrap 5 Documentation Template
-[![Foo](/screenshot.png)]
+# GK 360 API
+![Screenhot](/screenshot.png)
 
 ## Features of the documentation
 -   modern, sleek minimal design style

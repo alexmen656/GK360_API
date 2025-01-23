@@ -556,3 +556,7 @@ krems-in-kärnten An error occurred: Failed to find address
 
 großmürbisch An error occurred: Failed to find address
 
+litzelsdorf An error occurred: Failed to find address
+
+markt-neuhodis An error occurred: Failed to find address
+
