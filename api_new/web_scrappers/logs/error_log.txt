@@ -30969,3 +30969,7 @@ wienerwald An error occurred: Request failed with status code 404
 
 zwettl An error occurred: Request failed with status code 404
 
+gattendorf An error occurred: Cannot read properties of null (reading 'includes')
+
+hackerberg An error occurred: Request failed with status code 404
+

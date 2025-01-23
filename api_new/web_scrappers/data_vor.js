@@ -352,7 +352,7 @@ async function getData(name, einwohner) {
 
 fss.readFile(
   //`/Users/alexpolan/gk360/node_scripts/json/all.json`,
-  "json/salzburg.json",
+  "json/steiermark.json",
   "utf-8",
   (err, data) => {
     if (err) {
