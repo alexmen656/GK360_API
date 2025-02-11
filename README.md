@@ -6,6 +6,14 @@ This project provides a lightweight and efficient API to retrieve structured inf
 ## Demo
 🔗 [https://www.gk360.at/api/](https://www.gk360.at/api/)
 
+## Website
+🔗 [Github Repo](https://github.com/alexmen656/gk360) \
+🔗 [Demo](https://gk360.alex.polan.sk/)
+
+## iOS App
+🔗 [Github Repo](https://github.com/alexmen656/gemeinde-kompass-360) \
+🔗 [Demo](https://www.youtube.com/watch?v=mdxdGV-9WSs)
+
 ## Features
 - Federal States Management: Retrieve all federal states in a structured format.
 - Counties Management: Access data about counties and their associated municipalities.
